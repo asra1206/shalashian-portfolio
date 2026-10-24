@@ -1,0 +1,9 @@
+{
+  "name": "Shalashian Santhiya Arokiyamary",
+  "short_name": "Shalashian",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060A12",
+  "theme_color": "#060A12",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
